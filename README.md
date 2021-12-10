@@ -8,7 +8,8 @@ A página que você vai implementar deve ter duas seções:
 - Livros
 - Favoritos
 
-Sua tarefa é consumir a api https://fakerapi.it/api/v1/books?_quantity= e listar 20 livros na página na seção de Livros.
+Sua tarefa é consumir a api https://fakerapi.it/api/v1/books?_quantity= e listar 20 livros na página na seção de Livros. [Documentação da api](https://fakerapi.it/en)
+
 As seguintes informações dos livros devem constar na página:
 - Título
 - Autor
